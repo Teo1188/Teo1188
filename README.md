@@ -16,7 +16,7 @@
 
 <br>
 
-- :school: I am a `Student` at [NodoA EAFIT(https://es.nodoeafit.com) at [Medellin - Colombia]
+- :school: I am a `Student` at [NodoA EAFIT(https://es.nodoeafit.com) in [Medellin - Colombia]
 - :art: I'm `Artist` Alwais looking for create cool things.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `FrontEnd developer` and `BackEnd developer`.
