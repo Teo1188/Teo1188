@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tadeo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%36BCF7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Visual+Artist;IT+Technician;FrontEnd+and+BackEnd+student;3D+and+2D+animation+enthusiast;Undergroud+Gamer;Creative+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%36BCF7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Visual+Artist;IT+Technician;FrontEnd+and+BackEnd+Developer;Comic+Artist+&+Cartoonist;Indie+Videogame+Player;Creative+Developer;Always+learning+new+things"></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 - :school: I am a `Student` at [NodoA EAFIT(https://es.nodoeafit.com) in [Medellin - Colombia]
 - :art: I'm `Artist` Alwais looking for create cool things.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `FrontEnd developer` and `BackEnd developer`.
+- :student: I’m Fullstack Developer `FrontEnd developer` and `BackEnd developer`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
 <br>
@@ -31,17 +31,20 @@
  <br>
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-384854?style=for-the-badge&logo=react&logoColor=blue)
+![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=blue)
 
 -----
 	
