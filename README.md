@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tadeo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%36BCF7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Visual+Artist;IT+Technician;FrontEnd+and+BackEnd+Developer;Comic+Artist+&+Cartoonist;Indie+Videogame+Player;Creative+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%36BCF7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Visual+Artist;IT+Technician;FrontEnd+and+BackEnd+Developer;Comic+Artist+&+Cartoonist;Indie+Video-gamer;Creative+Developer;Always+learning+new+things"></a>
 </p>
 
 
@@ -16,7 +16,7 @@
 
 <br>
 
-- :school: I am a `Student` at [NodoA EAFIT(https://es.nodoeafit.com) in [Medellin - Colombia]
+- :school: I was `Student` & graduated at [NodoA EAFIT(https://es.nodoeafit.com) in [Medellin - Colombia]
 - :art: I'm `Artist` Alwais looking for create cool things.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m Fullstack Developer `FrontEnd developer` and `BackEnd developer`.
