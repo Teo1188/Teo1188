@@ -16,7 +16,7 @@
 
 <br>
 
-- :school: I was `Student` & graduated at [NodoA EAFIT(https://es.nodoeafit.com) in [Medellin - Colombia]
+- :school: I `studied` at [NodoA EAFIT(https://es.nodoeafit.com] in [Medellin - Colombia]
 - :art: I'm `Artist` Alwais looking for create cool things.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m Fullstack Developer `FrontEnd developer` and `BackEnd developer`.
